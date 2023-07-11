@@ -14,7 +14,7 @@
 
 ### Results
 
-####The Power BI analysis covers a range of HR-related topics including:
+#### The Power BI analysis covers a range of HR-related topics including:
 
 ##### - Employee demographics and diversity
 ##### - Performance evaluation and ratings
